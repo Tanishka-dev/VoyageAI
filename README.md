@@ -6,7 +6,13 @@ The interface is a Streamlit page. Behind it, a [LangGraph](https://github.com/l
 
 ## Demo
 
-![VoyageAI demo](mcp/demo/demo-app.mp4)
+
+
+https://github.com/user-attachments/assets/5ac27c08-cbfc-4f9e-9a18-d2c4bb1839d8
+
+
+
+
 
 ## What you get
 
